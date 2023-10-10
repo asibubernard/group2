@@ -1,0 +1,20 @@
+
+
+<section class="survey">
+    <form action="submit_survey.php" method="post">
+        <!-- Add demographic questions here -->
+        
+        <table>
+            <tr>
+                <th>Question</th>
+                <th>Strongly Disagree</th>
+                <th>Disagree</th>
+                <th>Neutral</th>
+                <th>Agree</th>
+                <th>Strongly Agree</th>
+            </tr>
+            <!-- Add rows for each question here -->
+        </table>
+        <input type="submit" value="Submit">
+    </form>
+</section>
